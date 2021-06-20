@@ -3,11 +3,23 @@
 
 <head>
   <meta charset="utf-8"/>
-  <title>Exercício 1 - textos em HTML</title>
+  <title>Este é o título da página</title>
 </head>
 
  <body>
- 
+     <h1>Exercício 1 - textos em HTML</h1>
+     <p>Esta é a lista de atividades para entender a utilização das tags na estruturação de um texto.</p>
+     
+     <h2>tag strong</h2>
+     <p>O personagem <strong>Arène Lupin</strong> é comparado ao famoso detetive ingês <strong>Sherlock Holmes</strong> por sua perspicácia, inteligência e sagacidade, porém, o francês é originalmente um ladrão, célebre e temido pela sociedade devido aos seus planos mirabolantes e inimagináveis.</p>
+     <hr>
+     
+     <h2>tag em</h2>
+     <p><em>Arsène Lupin, Gentleman cambrioleur</em> foi o primeiro livro em que o famoso ladrão francês aparece. Foi escrito em 1907 por <em>Maurice Leblanc</em>, jornalista policial, que, graças à sua profissão, tinha vasto material para criar suas incríveis histórias de furtos.
+     <hr>
+     
+     <h2>tag blockquote</h2>
+     
  
  
  </body>
